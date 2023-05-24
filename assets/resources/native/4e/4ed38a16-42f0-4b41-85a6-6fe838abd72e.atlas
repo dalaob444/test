@@ -1,0 +1,83 @@
+
+Boss.png
+size: 1697,843
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Boss di
+  rotate: false
+  xy: 513, 235
+  size: 753, 274
+  orig: 753, 274
+  offset: 0, 0
+  index: -1
+boos zi
+  rotate: false
+  xy: 1067, 665
+  size: 485, 176
+  orig: 490, 178
+  offset: 3, 0
+  index: -1
+boss liang
+  rotate: false
+  xy: 1208, 61
+  size: 487, 171
+  orig: 493, 176
+  offset: 3, 3
+  index: -1
+guai
+  rotate: false
+  xy: 2, 2
+  size: 509, 507
+  orig: 512, 517
+  offset: 2, 5
+  index: -1
+guai liang
+  rotate: false
+  xy: 1268, 234
+  size: 392, 429
+  orig: 405, 439
+  offset: 7, 5
+  index: -1
+guang01
+  rotate: false
+  xy: 2, 648
+  size: 1063, 193
+  orig: 1076, 193
+  offset: 12, 0
+  index: -1
+guang02
+  rotate: false
+  xy: 513, 25
+  size: 693, 208
+  orig: 698, 208
+  offset: 0, 0
+  index: -1
+guang03
+  rotate: false
+  xy: 2, 511
+  size: 1063, 135
+  orig: 1076, 135
+  offset: 12, 0
+  index: -1
+guang04
+  rotate: false
+  xy: 513, 2
+  size: 570, 21
+  orig: 570, 21
+  offset: 0, 0
+  index: -1
+guang05
+  rotate: false
+  xy: 1085, 2
+  size: 570, 21
+  orig: 570, 21
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: false
+  xy: 1067, 532
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,244 @@
+
+jenna.png
+size: 946,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 557, 107
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 650, 149
+  size: 28, 37
+  orig: 29, 37
+  offset: 1, 0
+  index: -1
+body
+  rotate: false
+  xy: 740, 179
+  size: 73, 88
+  orig: 73, 88
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 277, 132
+  size: 178, 135
+  orig: 178, 135
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 640, 123
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+eye_left
+  rotate: false
+  xy: 2, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+eye_right
+  rotate: false
+  xy: 589, 107
+  size: 18, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 754, 129
+  size: 48, 69
+  orig: 50, 70
+  offset: 1, 0
+  index: -1
+foot_left
+  rotate: true
+  xy: 689, 123
+  size: 54, 63
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+foot_right
+  rotate: true
+  xy: 880, 217
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: false
+  xy: 815, 183
+  size: 63, 84
+  orig: 64, 85
+  offset: 1, 1
+  index: -1
+hair_left
+  rotate: true
+  xy: 334, 99
+  size: 31, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+hair_right
+  rotate: true
+  xy: 277, 90
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: false
+  xy: 870, 63
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 508, 106
+  size: 47, 39
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: false
+  xy: 650, 179
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+hip_left
+  rotate: true
+  xy: 800, 27
+  size: 47, 50
+  orig: 47, 50
+  offset: 0, 0
+  index: -1
+hip_lower
+  rotate: true
+  xy: 398, 99
+  size: 31, 54
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+hip_mid
+  rotate: false
+  xy: 589, 123
+  size: 49, 22
+  orig: 50, 22
+  offset: 1, 0
+  index: -1
+hip_right
+  rotate: false
+  xy: 852, 8
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+jn_05
+  rotate: false
+  xy: 457, 147
+  size: 191, 120
+  orig: 198, 125
+  offset: 3, 1
+  index: -1
+jn_06
+  rotate: false
+  xy: 2, 77
+  size: 133, 190
+  orig: 142, 193
+  offset: 0, 1
+  index: -1
+jn_07
+  rotate: false
+  xy: 137, 90
+  size: 138, 177
+  orig: 144, 187
+  offset: 0, 2
+  index: -1
+jn_08
+  rotate: false
+  xy: 631, 5
+  size: 167, 116
+  orig: 178, 118
+  offset: 2, 0
+  index: -1
+jn_09
+  rotate: false
+  xy: 474, 4
+  size: 155, 98
+  orig: 172, 98
+  offset: 7, 0
+  index: -1
+mouse
+  rotate: true
+  xy: 14, 6
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 186, 6
+  size: 182, 82
+  orig: 186, 89
+  offset: 1, 4
+  index: -1
+shield
+  rotate: true
+  xy: 370, 4
+  size: 93, 102
+  orig: 93, 103
+  offset: 0, 1
+  index: -1
+shoulder_left
+  rotate: false
+  xy: 880, 162
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: false
+  xy: 825, 134
+  size: 53, 47
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+string
+  rotate: false
+  xy: 454, 104
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 2, 17
+  size: 58, 182
+  orig: 58, 182
+  offset: 0, 0
+  index: -1
+thigh_left
+  rotate: true
+  xy: 880, 111
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+thigh_right
+  rotate: true
+  xy: 825, 76
+  size: 56, 43
+  orig: 56, 44
+  offset: 0, 1
+  index: -1

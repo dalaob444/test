@@ -1,0 +1,132 @@
+
+zika.png
+size: 338,903
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 260, 94
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 237, 467
+  size: 120, 98
+  orig: 121, 99
+  offset: 1, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 602
+  size: 169, 260
+  orig: 170, 260
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 2, 222
+  size: 93, 142
+  orig: 94, 143
+  offset: 1, 0
+  index: -1
+ear_left
+  rotate: true
+  xy: 2, 2
+  size: 85, 115
+  orig: 86, 116
+  offset: 1, 0
+  index: -1
+ear_right
+  rotate: true
+  xy: 237, 363
+  size: 102, 98
+  orig: 104, 99
+  offset: 1, 1
+  index: -1
+eye
+  rotate: false
+  xy: 183, 372
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 146, 154
+  size: 117, 141
+  orig: 117, 142
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 2, 400
+  size: 200, 233
+  orig: 201, 234
+  offset: 0, 1
+  index: -1
+hand_left
+  rotate: false
+  xy: 260, 34
+  size: 73, 58
+  orig: 73, 58
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 264, 632
+  size: 70, 70
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+hip_upper
+  rotate: false
+  xy: 143, 41
+  size: 115, 111
+  orig: 117, 113
+  offset: 2, 2
+  index: -1
+mouse
+  rotate: false
+  xy: 264, 704
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+mouse1
+  rotate: false
+  xy: 264, 589
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 317
+  size: 179, 81
+  orig: 186, 89
+  offset: 4, 4
+  index: -1
+shoulder_right
+  rotate: true
+  xy: 2, 89
+  size: 131, 139
+  orig: 131, 139
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 183, 273
+  size: 144, 88
+  orig: 144, 88
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 773
+  size: 128, 319
+  orig: 128, 319
+  offset: 0, 0
+  index: -1

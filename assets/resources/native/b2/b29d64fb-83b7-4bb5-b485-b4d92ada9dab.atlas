@@ -1,0 +1,118 @@
+
+drake.png
+size: 301,513
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 280
+  size: 155, 147
+  orig: 155, 147
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 203, 42
+  size: 50, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 159, 410
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 183, 390
+  size: 109, 121
+  orig: 109, 122
+  offset: 0, 0
+  index: -1
+foot_lb
+  rotate: false
+  xy: 226, 94
+  size: 64, 64
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+foot_lf
+  rotate: true
+  xy: 227, 160
+  size: 94, 68
+  orig: 95, 68
+  offset: 0, 0
+  index: -1
+foot_rb
+  rotate: false
+  xy: 137, 40
+  size: 64, 64
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+foot_rf
+  rotate: false
+  xy: 130, 186
+  size: 95, 68
+  orig: 96, 68
+  offset: 0, 0
+  index: -1
+mane
+  rotate: false
+  xy: 159, 256
+  size: 140, 132
+  orig: 140, 132
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 2, 174
+  size: 126, 104
+  orig: 126, 104
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 429
+  size: 179, 82
+  orig: 186, 89
+  offset: 3, 3
+  index: -1
+tail
+  rotate: true
+  xy: 2, 2
+  size: 90, 56
+  orig: 91, 57
+  offset: 1, 1
+  index: -1
+thigh_lb
+  rotate: false
+  xy: 2, 95
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+thigh_lf
+  rotate: false
+  xy: 60, 3
+  size: 75, 89
+  orig: 75, 89
+  offset: 0, 0
+  index: -1
+thigh_rb
+  rotate: false
+  xy: 57, 96
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+thigh_rf
+  rotate: true
+  xy: 130, 106
+  size: 78, 94
+  orig: 81, 98
+  offset: 3, 4
+  index: -1

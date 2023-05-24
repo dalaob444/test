@@ -1,0 +1,125 @@
+
+volcano.png
+size: 968,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 404, 2
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 838, 13
+  size: 67, 82
+  orig: 67, 82
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 116, 17
+  size: 186, 203
+  orig: 187, 203
+  offset: 0, 0
+  index: -1
+eye_left
+  rotate: false
+  xy: 116, 4
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+eye_right
+  rotate: false
+  xy: 321, 4
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 617, 67
+  size: 115, 136
+  orig: 115, 136
+  offset: 0, 0
+  index: -1
+foot_left
+  rotate: false
+  xy: 723, 16
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+foot_right
+  rotate: true
+  xy: 922, 31
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: false
+  xy: 734, 79
+  size: 95, 124
+  orig: 95, 124
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 831, 82
+  size: 117, 121
+  orig: 117, 121
+  offset: 0, 0
+  index: -1
+hip_upper
+  rotate: false
+  xy: 477, 4
+  size: 97, 55
+  orig: 97, 55
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 576, 7
+  size: 85, 52
+  orig: 85, 52
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 321, 25
+  size: 178, 81
+  orig: 186, 89
+  offset: 4, 4
+  index: -1
+shoulder_left
+  rotate: false
+  xy: 2, 9
+  size: 112, 194
+  orig: 112, 194
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: true
+  xy: 404, 61
+  size: 142, 211
+  orig: 142, 211
+  offset: 0, 0
+  index: -1
+thigh_left
+  rotate: false
+  xy: 663, 3
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+thigh_right
+  rotate: false
+  xy: 770, 3
+  size: 66, 74
+  orig: 66, 75
+  offset: 0, 1
+  index: -1

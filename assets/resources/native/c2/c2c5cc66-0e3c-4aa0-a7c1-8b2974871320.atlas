@@ -1,0 +1,118 @@
+
+ortega.png
+size: 602,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 230, 112
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 437, 8
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 568, 61
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 86, 103
+  size: 163, 142
+  orig: 163, 142
+  offset: 0, 0
+  index: -1
+foot_lb
+  rotate: false
+  xy: 437, 62
+  size: 64, 63
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+foot_lf
+  rotate: true
+  xy: 119, 6
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+foot_rb
+  rotate: true
+  xy: 503, 13
+  size: 64, 63
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+foot_rf
+  rotate: true
+  xy: 188, 6
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+mane
+  rotate: true
+  xy: 378, 127
+  size: 139, 131
+  orig: 139, 131
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 257, 7
+  size: 124, 103
+  orig: 125, 103
+  offset: 1, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 86
+  size: 180, 82
+  orig: 186, 89
+  offset: 3, 4
+  index: -1
+tail
+  rotate: false
+  xy: 511, 134
+  size: 89, 55
+  orig: 90, 56
+  offset: 1, 1
+  index: -1
+thigh_lb
+  rotate: true
+  xy: 511, 79
+  size: 53, 75
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+thigh_lf
+  rotate: true
+  xy: 511, 191
+  size: 75, 89
+  orig: 75, 89
+  offset: 0, 0
+  index: -1
+thigh_rb
+  rotate: false
+  xy: 383, 2
+  size: 52, 75
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+thigh_rf
+  rotate: true
+  xy: 2, 6
+  size: 78, 115
+  orig: 80, 115
+  offset: 0, 0
+  index: -1

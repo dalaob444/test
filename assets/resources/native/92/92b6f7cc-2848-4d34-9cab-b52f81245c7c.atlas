@@ -1,0 +1,167 @@
+
+magnus.png
+size: 821,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 460, 24
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: false
+  xy: 664, 26
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 570, 2
+  size: 90, 92
+  orig: 91, 92
+  offset: 1, 0
+  index: -1
+ear
+  rotate: false
+  xy: 735, 3
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+eye_left
+  rotate: false
+  xy: 215, 51
+  size: 7, 9
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+eye_right
+  rotate: false
+  xy: 149, 2
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 434, 75
+  size: 128, 134
+  orig: 128, 135
+  offset: 0, 1
+  index: -1
+foot_left
+  rotate: false
+  xy: 784, 149
+  size: 33, 54
+  orig: 35, 56
+  offset: 1, 1
+  index: -1
+foot_right
+  rotate: false
+  xy: 518, 16
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: true
+  xy: 2, 5
+  size: 55, 99
+  orig: 55, 101
+  offset: 0, 1
+  index: -1
+hand_right
+  rotate: false
+  xy: 721, 120
+  size: 61, 83
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+hip_left
+  rotate: true
+  xy: 103, 2
+  size: 58, 44
+  orig: 58, 44
+  offset: 0, 0
+  index: -1
+hip_mid
+  rotate: true
+  xy: 149, 16
+  size: 44, 64
+  orig: 44, 66
+  offset: 0, 1
+  index: -1
+hip_right
+  rotate: true
+  xy: 777, 58
+  size: 60, 42
+  orig: 60, 43
+  offset: 0, 1
+  index: -1
+hip_upper
+  rotate: true
+  xy: 735, 34
+  size: 84, 40
+  orig: 85, 41
+  offset: 1, 0
+  index: -1
+mouse
+  rotate: true
+  xy: 405, 2
+  size: 16, 13
+  orig: 18, 14
+  offset: 1, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 225, 2
+  size: 178, 81
+  orig: 186, 89
+  offset: 4, 4
+  index: -1
+shoulder_left
+  rotate: false
+  xy: 657, 97
+  size: 62, 106
+  orig: 62, 106
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: false
+  xy: 570, 94
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1
+thigh_left
+  rotate: false
+  xy: 777, 7
+  size: 40, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+thigh_right
+  rotate: false
+  xy: 405, 20
+  size: 53, 53
+  orig: 54, 55
+  offset: 0, 1
+  index: -1
+wing_left
+  rotate: true
+  xy: 225, 85
+  size: 118, 207
+  orig: 118, 208
+  offset: 0, 1
+  index: -1
+wing_right
+  rotate: true
+  xy: 2, 62
+  size: 141, 221
+  orig: 143, 223
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,48 @@
+
+kaungshi.png
+size: 1112,402
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang01
+  rotate: false
+  xy: 2, 2
+  size: 426, 398
+  orig: 469, 400
+  offset: 27, 0
+  index: -1
+guang02
+  rotate: false
+  xy: 784, 25
+  size: 241, 111
+  orig: 249, 124
+  offset: 4, 9
+  index: -1
+guo01
+  rotate: false
+  xy: 430, 21
+  size: 352, 379
+  orig: 352, 382
+  offset: 0, 0
+  index: -1
+guo02
+  rotate: false
+  xy: 784, 138
+  size: 318, 262
+  orig: 343, 274
+  offset: 12, 12
+  index: -1
+kuangshi01
+  rotate: false
+  xy: 1027, 45
+  size: 83, 91
+  orig: 83, 91
+  offset: 0, 0
+  index: -1
+xingxingtuowei02
+  rotate: false
+  xy: 1027, 19
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1

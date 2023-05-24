@@ -1,0 +1,146 @@
+
+marg.png
+size: 744,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 118, 8
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 578, 34
+  size: 98, 92
+  orig: 98, 93
+  offset: 0, 1
+  index: -1
+body
+  rotate: false
+  xy: 85, 89
+  size: 139, 178
+  orig: 139, 183
+  offset: 0, 0
+  index: -1
+calf_left
+  rotate: true
+  xy: 672, 209
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+calf_right
+  rotate: true
+  xy: 672, 149
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+eye_left
+  rotate: false
+  xy: 578, 5
+  size: 21, 21
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+eye_right
+  rotate: false
+  xy: 470, 119
+  size: 10, 13
+  orig: 12, 15
+  offset: 1, 1
+  index: -1
+face
+  rotate: false
+  xy: 470, 134
+  size: 120, 133
+  orig: 122, 133
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: true
+  xy: 2, 5
+  size: 81, 114
+  orig: 81, 115
+  offset: 0, 1
+  index: -1
+hand_right
+  rotate: true
+  xy: 357, 5
+  size: 111, 121
+  orig: 111, 121
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 480, 9
+  size: 96, 108
+  orig: 96, 109
+  offset: 0, 0
+  index: -1
+hip_attach
+  rotate: true
+  xy: 592, 203
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 284, 2
+  size: 71, 95
+  orig: 72, 95
+  offset: 0, 0
+  index: -1
+shadow_01
+  rotate: true
+  xy: 2, 88
+  size: 179, 81
+  orig: 186, 89
+  offset: 3, 4
+  index: -1
+shoulder_left
+  rotate: false
+  xy: 352, 118
+  size: 116, 149
+  orig: 116, 149
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: true
+  xy: 226, 99
+  size: 168, 124
+  orig: 168, 124
+  offset: 0, 0
+  index: -1
+thigh_left
+  rotate: false
+  xy: 672, 89
+  size: 64, 58
+  orig: 64, 59
+  offset: 0, 1
+  index: -1
+thigh_right
+  rotate: true
+  xy: 672, 28
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+wrist_left
+  rotate: false
+  xy: 592, 136
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+wrist_right
+  rotate: false
+  xy: 208, 10
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1

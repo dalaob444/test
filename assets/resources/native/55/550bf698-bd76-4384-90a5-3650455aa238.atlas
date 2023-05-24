@@ -1,0 +1,188 @@
+
+shimada.png
+size: 853,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 775, 49
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: false
+  xy: 487, 23
+  size: 49, 61
+  orig: 50, 62
+  offset: 1, 1
+  index: -1
+backdeco
+  rotate: false
+  xy: 718, 167
+  size: 81, 179
+  orig: 82, 179
+  offset: 1, 0
+  index: -1
+body
+  rotate: false
+  xy: 396, 3
+  size: 89, 81
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 564, 51
+  size: 116, 118
+  orig: 119, 125
+  offset: 0, 4
+  index: -1
+foot_left
+  rotate: false
+  xy: 745, 10
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+foot_right
+  rotate: false
+  xy: 786, 10
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: false
+  xy: 538, 2
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 775, 94
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+hip_left
+  rotate: true
+  xy: 691, 10
+  size: 40, 52
+  orig: 40, 53
+  offset: 0, 1
+  index: -1
+hip_lower
+  rotate: true
+  xy: 239, 27
+  size: 41, 58
+  orig: 62, 68
+  offset: 10, 1
+  index: -1
+hip_right
+  rotate: true
+  xy: 801, 151
+  size: 48, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+hip_upper
+  rotate: true
+  xy: 820, 455
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 380, 86
+  size: 182, 81
+  orig: 186, 89
+  offset: 1, 4
+  index: -1
+shoulder_left
+  rotate: false
+  xy: 306, 95
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: false
+  xy: 306, 2
+  size: 88, 82
+  orig: 89, 82
+  offset: 1, 0
+  index: -1
+sm_07
+  rotate: false
+  xy: 2, 351
+  size: 474, 175
+  orig: 478, 175
+  offset: 0, 0
+  index: -1
+sm_08
+  rotate: false
+  xy: 2, 160
+  size: 376, 189
+  orig: 379, 194
+  offset: 3, 4
+  index: -1
+sm_09
+  rotate: false
+  xy: 478, 348
+  size: 340, 178
+  orig: 346, 178
+  offset: 5, 0
+  index: -1
+sm_10
+  rotate: false
+  xy: 380, 169
+  size: 336, 177
+  orig: 346, 178
+  offset: 10, 1
+  index: -1
+sms_01
+  rotate: true
+  xy: 2, 70
+  size: 88, 302
+  orig: 90, 304
+  offset: 1, 0
+  index: -1
+sms_02
+  rotate: false
+  xy: 684, 52
+  size: 89, 113
+  orig: 90, 116
+  offset: 0, 1
+  index: -1
+sword1
+  rotate: true
+  xy: 801, 201
+  size: 145, 34
+  orig: 145, 34
+  offset: 0, 0
+  index: -1
+thigh_left
+  rotate: false
+  xy: 647, 5
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+thigh_right
+  rotate: true
+  xy: 593, 6
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 32
+  size: 36, 235
+  orig: 51, 360
+  offset: 9, 108
+  index: -1

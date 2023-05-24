@@ -1,0 +1,97 @@
+
+cado.png
+size: 543,310
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 450, 19
+  size: 86, 80
+  orig: 86, 80
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 365, 2
+  size: 97, 83
+  orig: 97, 84
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 71
+  size: 179, 237
+  orig: 179, 237
+  offset: 0, 0
+  index: -1
+crystal
+  rotate: true
+  xy: 114, 26
+  size: 43, 87
+  orig: 43, 87
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 365, 110
+  size: 92, 80
+  orig: 92, 81
+  offset: 0, 1
+  index: -1
+hand_left
+  rotate: true
+  xy: 321, 192
+  size: 116, 142
+  orig: 116, 142
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 183, 168
+  size: 136, 140
+  orig: 136, 140
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 203, 10
+  size: 88, 72
+  orig: 88, 72
+  offset: 0, 0
+  index: -1
+mouse1
+  rotate: true
+  xy: 293, 26
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 183, 84
+  size: 180, 82
+  orig: 186, 89
+  offset: 3, 3
+  index: -1
+shoulder_left
+  rotate: false
+  xy: 465, 201
+  size: 76, 107
+  orig: 76, 107
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: false
+  xy: 465, 101
+  size: 76, 98
+  orig: 76, 98
+  offset: 0, 0
+  index: -1
+wrist_right
+  rotate: false
+  xy: 2, 2
+  size: 110, 67
+  orig: 110, 67
+  offset: 0, 0
+  index: -1

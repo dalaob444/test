@@ -1,0 +1,160 @@
+
+tabir.png
+size: 975,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 332, 16
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 391, 18
+  size: 74, 99
+  orig: 74, 99
+  offset: 0, 0
+  index: -1
+beard_1
+  rotate: true
+  xy: 166, 73
+  size: 17, 65
+  orig: 17, 66
+  offset: 0, 1
+  index: -1
+beard_2
+  rotate: true
+  xy: 2, 8
+  size: 28, 94
+  orig: 28, 96
+  offset: 0, 1
+  index: -1
+body
+  rotate: true
+  xy: 184, 94
+  size: 178, 274
+  orig: 180, 274
+  offset: 1, 0
+  index: -1
+ear
+  rotate: false
+  xy: 585, 121
+  size: 96, 151
+  orig: 97, 152
+  offset: 1, 1
+  index: -1
+eye
+  rotate: false
+  xy: 98, 14
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 460, 121
+  size: 123, 151
+  orig: 123, 152
+  offset: 0, 0
+  index: -1
+hair_deco
+  rotate: true
+  xy: 900, 139
+  size: 64, 73
+  orig: 64, 74
+  offset: 0, 1
+  index: -1
+hand_left
+  rotate: true
+  xy: 269, 15
+  size: 77, 61
+  orig: 77, 61
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: true
+  xy: 900, 205
+  size: 67, 73
+  orig: 67, 75
+  offset: 0, 1
+  index: -1
+head_deco
+  rotate: true
+  xy: 122, 3
+  size: 42, 70
+  orig: 44, 71
+  offset: 1, 1
+  index: -1
+hip_upper
+  rotate: false
+  xy: 776, 144
+  size: 122, 128
+  orig: 122, 129
+  offset: 0, 1
+  index: -1
+mouse
+  rotate: false
+  xy: 194, 2
+  size: 73, 69
+  orig: 73, 70
+  offset: 0, 1
+  index: -1
+mouse1
+  rotate: false
+  xy: 101, 47
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 101, 92
+  size: 180, 81
+  orig: 186, 89
+  offset: 2, 4
+  index: -1
+shoulder_left
+  rotate: true
+  xy: 599, 14
+  size: 105, 98
+  orig: 105, 98
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: true
+  xy: 822, 15
+  size: 122, 103
+  orig: 122, 103
+  offset: 0, 0
+  index: -1
+shoulder_right2
+  rotate: false
+  xy: 699, 2
+  size: 121, 133
+  orig: 121, 133
+  offset: 0, 0
+  index: -1
+shouler_right_deco1
+  rotate: false
+  xy: 492, 14
+  size: 105, 105
+  orig: 106, 106
+  offset: 0, 1
+  index: -1
+tail
+  rotate: true
+  xy: 683, 137
+  size: 135, 91
+  orig: 135, 91
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 38
+  size: 97, 234
+  orig: 97, 235
+  offset: 0, 1
+  index: -1

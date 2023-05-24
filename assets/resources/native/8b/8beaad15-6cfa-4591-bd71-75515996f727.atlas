@@ -1,0 +1,202 @@
+
+shun.png
+size: 674,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blow_effect_01
+  rotate: false
+  xy: 464, 278
+  size: 144, 243
+  orig: 149, 245
+  offset: 0, 1
+  index: -1
+blow_effect_02
+  rotate: false
+  xy: 2, 235
+  size: 170, 286
+  orig: 203, 307
+  offset: 25, 13
+  index: -1
+blow_effect_03
+  rotate: false
+  xy: 174, 262
+  size: 144, 259
+  orig: 150, 262
+  offset: 2, 2
+  index: -1
+blow_effect_04
+  rotate: false
+  xy: 320, 267
+  size: 142, 254
+  orig: 150, 256
+  offset: 4, 2
+  index: -1
+blow_effect_05
+  rotate: false
+  xy: 235, 21
+  size: 72, 239
+  orig: 73, 241
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 464, 191
+  size: 93, 85
+  orig: 94, 85
+  offset: 1, 0
+  index: -1
+calf_left
+  rotate: true
+  xy: 68, 5
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+calf_right
+  rotate: true
+  xy: 126, 5
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+cape
+  rotate: true
+  xy: 309, 84
+  size: 176, 140
+  orig: 176, 140
+  offset: 0, 0
+  index: -1
+eye_left
+  rotate: true
+  xy: 451, 84
+  size: 16, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+foot_left
+  rotate: false
+  xy: 625, 274
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+foot_right
+  rotate: false
+  xy: 625, 234
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: true
+  xy: 614, 16
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 614, 71
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 397, 7
+  size: 75, 84
+  orig: 75, 85
+  offset: 0, 1
+  index: -1
+hip_left
+  rotate: true
+  xy: 553, 50
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+hip_mid
+  rotate: true
+  xy: 2, 2
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+hip_right
+  rotate: false
+  xy: 184, 5
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+hip_upper
+  rotate: true
+  xy: 483, 27
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+scarf
+  rotate: true
+  xy: 559, 195
+  size: 81, 64
+  orig: 81, 64
+  offset: 0, 0
+  index: -1
+shadow_01
+  rotate: true
+  xy: 148, 53
+  size: 180, 85
+  orig: 186, 89
+  offset: 3, 0
+  index: -1
+sheath
+  rotate: false
+  xy: 451, 102
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+shoulder_left
+  rotate: true
+  xy: 542, 116
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: false
+  xy: 309, 9
+  size: 86, 73
+  orig: 86, 73
+  offset: 0, 0
+  index: -1
+shun
+  rotate: true
+  xy: 2, 53
+  size: 180, 144
+  orig: 180, 144
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 610, 316
+  size: 62, 205
+  orig: 62, 205
+  offset: 0, 0
+  index: -1
+wrist_left
+  rotate: true
+  xy: 553, 2
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+wrist_right
+  rotate: false
+  xy: 600, 130
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1

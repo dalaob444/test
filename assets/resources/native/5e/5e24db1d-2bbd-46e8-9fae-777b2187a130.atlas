@@ -1,0 +1,118 @@
+
+snyder.png
+size: 563,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 87, 112
+  size: 154, 147
+  orig: 154, 147
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 497, 83
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 352, 11
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 105, 2
+  size: 108, 119
+  orig: 108, 119
+  offset: 0, 0
+  index: -1
+foot_lb
+  rotate: false
+  xy: 495, 202
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+foot_lf
+  rotate: true
+  xy: 352, 30
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+foot_rb
+  rotate: false
+  xy: 497, 136
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+foot_rf
+  rotate: true
+  xy: 369, 171
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+mane
+  rotate: true
+  xy: 236, 127
+  size: 139, 131
+  orig: 139, 131
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 226, 6
+  size: 124, 104
+  orig: 125, 104
+  offset: 1, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 84
+  size: 182, 83
+  orig: 186, 89
+  offset: 1, 3
+  index: -1
+tail
+  rotate: true
+  xy: 438, 177
+  size: 89, 55
+  orig: 90, 56
+  offset: 1, 1
+  index: -1
+thigh_lb
+  rotate: false
+  xy: 421, 2
+  size: 53, 76
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+thigh_lf
+  rotate: false
+  xy: 421, 80
+  size: 74, 89
+  orig: 74, 89
+  offset: 0, 0
+  index: -1
+thigh_rb
+  rotate: false
+  xy: 476, 2
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+thigh_rf
+  rotate: true
+  xy: 2, 3
+  size: 79, 101
+  orig: 79, 101
+  offset: 0, 0
+  index: -1

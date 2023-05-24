@@ -1,0 +1,181 @@
+
+meinhard.png
+size: 1418,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 761, 5
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 689, 4
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+be shot_05_01_60
+  rotate: true
+  xy: 1201, 115
+  size: 120, 96
+  orig: 137, 104
+  offset: 12, 0
+  index: -1
+be shot_05_02_60
+  rotate: true
+  xy: 1008, 106
+  size: 129, 92
+  orig: 137, 104
+  offset: 5, 0
+  index: -1
+be shot_05_03_60
+  rotate: true
+  xy: 1102, 110
+  size: 125, 97
+  orig: 137, 104
+  offset: 7, 0
+  index: -1
+be shot_05_04_60
+  rotate: true
+  xy: 903, 99
+  size: 136, 103
+  orig: 137, 104
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1219, 3
+  size: 107, 110
+  orig: 107, 110
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 549, 62
+  size: 237, 173
+  orig: 237, 174
+  offset: 0, 1
+  index: -1
+foot_left
+  rotate: false
+  xy: 525, 4
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+foot_right
+  rotate: false
+  xy: 1328, 64
+  size: 46, 44
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: true
+  xy: 464, 3
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: true
+  xy: 1336, 110
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 993, 2
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+hip
+  rotate: false
+  xy: 1299, 173
+  size: 117, 62
+  orig: 118, 62
+  offset: 0, 0
+  index: -1
+hip_left
+  rotate: false
+  xy: 1376, 74
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+hip_mid
+  rotate: false
+  xy: 815, 4
+  size: 53, 80
+  orig: 53, 80
+  offset: 0, 0
+  index: -1
+hip_right
+  rotate: true
+  xy: 1299, 118
+  size: 53, 35
+  orig: 55, 35
+  offset: 1, 0
+  index: -1
+irn_03
+  rotate: false
+  xy: 788, 86
+  size: 113, 149
+  orig: 168, 168
+  offset: 27, 0
+  index: -1
+lhs_03
+  rotate: true
+  xy: 2, 11
+  size: 224, 303
+  orig: 227, 304
+  offset: 2, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 464, 55
+  size: 180, 83
+  orig: 186, 89
+  offset: 3, 3
+  index: -1
+shoulder_left
+  rotate: true
+  xy: 870, 11
+  size: 73, 121
+  orig: 73, 121
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: true
+  xy: 1095, 3
+  size: 101, 122
+  orig: 101, 122
+  offset: 0, 0
+  index: -1
+thigh_left
+  rotate: false
+  xy: 639, 2
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+thigh_right
+  rotate: false
+  xy: 576, 2
+  size: 61, 58
+  orig: 62, 58
+  offset: 1, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 307, 16
+  size: 155, 219
+  orig: 157, 220
+  offset: 1, 0
+  index: -1

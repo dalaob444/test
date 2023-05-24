@@ -1,0 +1,160 @@
+
+duncan.png
+size: 824,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 762, 842
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 762, 800
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 575, 211
+  size: 89, 83
+  orig: 89, 83
+  offset: 0, 0
+  index: -1
+cape
+  rotate: true
+  xy: 666, 66
+  size: 175, 137
+  orig: 175, 137
+  offset: 0, 0
+  index: -1
+deco_hair
+  rotate: false
+  xy: 697, 243
+  size: 93, 81
+  orig: 93, 81
+  offset: 0, 0
+  index: -1
+eye_left
+  rotate: true
+  xy: 807, 919
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+eye_right
+  rotate: true
+  xy: 807, 932
+  size: 17, 15
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 575, 2
+  size: 62, 109
+  orig: 62, 109
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: true
+  xy: 762, 885
+  size: 64, 43
+  orig: 64, 43
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 762, 951
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+hip_left
+  rotate: true
+  xy: 713, 701
+  size: 28, 36
+  orig: 28, 37
+  offset: 0, 1
+  index: -1
+hip_lower
+  rotate: true
+  xy: 751, 603
+  size: 119, 69
+  orig: 120, 69
+  offset: 0, 0
+  index: -1
+hip_mid
+  rotate: true
+  xy: 762, 763
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+hip_right
+  rotate: true
+  xy: 762, 724
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+neck_deco
+  rotate: false
+  xy: 575, 296
+  size: 120, 73
+  orig: 120, 73
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 713, 423
+  size: 178, 81
+  orig: 186, 89
+  offset: 4, 4
+  index: -1
+shoulder_left
+  rotate: false
+  xy: 575, 127
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: true
+  xy: 713, 326
+  size: 95, 100
+  orig: 95, 101
+  offset: 0, 1
+  index: -1
+sword_03_04
+  rotate: false
+  xy: 2, 731
+  size: 758, 287
+  orig: 758, 287
+  offset: 0, 0
+  index: -1
+sword_03_05
+  rotate: true
+  xy: 2, 6
+  size: 723, 286
+  orig: 724, 287
+  offset: 1, 1
+  index: -1
+sword_03_06
+  rotate: true
+  xy: 290, 2
+  size: 727, 283
+  orig: 728, 292
+  offset: 1, 9
+  index: -1
+weapon
+  rotate: false
+  xy: 575, 371
+  size: 136, 358
+  orig: 136, 358
+  offset: 0, 0
+  index: -1

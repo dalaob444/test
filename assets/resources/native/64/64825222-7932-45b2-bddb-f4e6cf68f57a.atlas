@@ -1,0 +1,167 @@
+
+lycan.png
+size: 707,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 165, 59
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: false
+  xy: 631, 187
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 165, 127
+  size: 131, 143
+  orig: 131, 143
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 372, 25
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 647, 84
+  size: 16, 20
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 298, 69
+  size: 115, 142
+  orig: 115, 142
+  offset: 0, 0
+  index: -1
+foot_left
+  rotate: true
+  xy: 469, 14
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+foot_right
+  rotate: false
+  xy: 420, 16
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 480, 171
+  size: 149, 99
+  orig: 149, 100
+  offset: 0, 1
+  index: -1
+hand_left
+  rotate: true
+  xy: 558, 2
+  size: 74, 79
+  orig: 74, 79
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: true
+  xy: 2, 2
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+hip_left
+  rotate: true
+  xy: 196, 9
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+hip_mid
+  rotate: false
+  xy: 249, 58
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+hip_right
+  rotate: true
+  xy: 639, 6
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+hip_upper
+  rotate: true
+  xy: 647, 106
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 75, 4
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+rosary
+  rotate: false
+  xy: 249, 8
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 298, 186
+  size: 180, 84
+  orig: 186, 89
+  offset: 3, 1
+  index: -1
+shoulder
+  rotate: true
+  xy: 442, 58
+  size: 111, 114
+  orig: 133, 123
+  offset: 6, 8
+  index: -1
+tail
+  rotate: true
+  xy: 558, 78
+  size: 91, 87
+  orig: 91, 87
+  offset: 0, 0
+  index: -1
+thigh_left
+  rotate: false
+  xy: 148, 2
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+thigh_right
+  rotate: false
+  xy: 309, 8
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 68
+  size: 161, 202
+  orig: 175, 209
+  offset: 5, 6
+  index: -1

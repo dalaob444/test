@@ -1,0 +1,118 @@
+
+feros.png
+size: 562,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 86, 107
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 451, 72
+  size: 50, 51
+  orig: 50, 52
+  offset: 0, 1
+  index: -1
+eye
+  rotate: true
+  xy: 86, 89
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 239, 10
+  size: 111, 133
+  orig: 151, 148
+  offset: 40, 0
+  index: -1
+foot_lb
+  rotate: true
+  xy: 374, 2
+  size: 64, 63
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+foot_lf
+  rotate: false
+  xy: 455, 194
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+foot_rb
+  rotate: true
+  xy: 439, 2
+  size: 64, 63
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+foot_rf
+  rotate: false
+  xy: 455, 125
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+mane
+  rotate: true
+  xy: 234, 123
+  size: 138, 131
+  orig: 138, 131
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 112, 2
+  size: 125, 103
+  orig: 125, 103
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 80
+  size: 181, 82
+  orig: 186, 89
+  offset: 2, 4
+  index: -1
+tail
+  rotate: true
+  xy: 504, 34
+  size: 89, 56
+  orig: 90, 56
+  offset: 0, 0
+  index: -1
+thigh_lb
+  rotate: false
+  xy: 2, 2
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+thigh_lf
+  rotate: false
+  xy: 374, 68
+  size: 75, 89
+  orig: 75, 89
+  offset: 0, 0
+  index: -1
+thigh_rb
+  rotate: false
+  xy: 57, 2
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+thigh_rf
+  rotate: false
+  xy: 367, 159
+  size: 86, 102
+  orig: 110, 139
+  offset: 24, 0
+  index: -1

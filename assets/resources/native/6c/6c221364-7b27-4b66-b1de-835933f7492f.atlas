@@ -1,0 +1,216 @@
+
+julie.png
+size: 1027,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 508, 3
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 478, 3
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 270, 4
+  size: 167, 34
+  orig: 167, 34
+  offset: 0, 0
+  index: -1
+arrow1
+  rotate: true
+  xy: 651, 52
+  size: 33, 37
+  orig: 34, 38
+  offset: 1, 0
+  index: -1
+body
+  rotate: false
+  xy: 886, 17
+  size: 69, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+bow
+  rotate: false
+  xy: 270, 40
+  size: 72, 227
+  orig: 72, 227
+  offset: 0, 0
+  index: -1
+cape
+  rotate: true
+  xy: 734, 104
+  size: 163, 120
+  orig: 164, 120
+  offset: 0, 0
+  index: -1
+eye_left
+  rotate: true
+  xy: 344, 40
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+eye_right
+  rotate: false
+  xy: 734, 89
+  size: 17, 13
+  orig: 18, 13
+  offset: 1, 0
+  index: -1
+eyebrow_left
+  rotate: true
+  xy: 359, 42
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+eyebrow_right
+  rotate: false
+  xy: 376, 43
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 713, 2
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+foot_left
+  rotate: false
+  xy: 957, 26
+  size: 54, 53
+  orig: 76, 56
+  offset: 22, 0
+  index: -1
+foot_right
+  rotate: true
+  xy: 690, 54
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: true
+  xy: 754, 5
+  size: 97, 130
+  orig: 97, 130
+  offset: 0, 0
+  index: -1
+hair_f1
+  rotate: false
+  xy: 856, 107
+  size: 52, 72
+  orig: 52, 73
+  offset: 0, 1
+  index: -1
+hair_f2
+  rotate: false
+  xy: 856, 194
+  size: 27, 73
+  orig: 27, 74
+  offset: 0, 1
+  index: -1
+hand_left
+  rotate: true
+  xy: 537, 3
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 957, 81
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+hip_mid
+  rotate: true
+  xy: 985, 196
+  size: 71, 40
+  orig: 72, 40
+  offset: 1, 0
+  index: -1
+hood
+  rotate: false
+  xy: 910, 112
+  size: 76, 67
+  orig: 76, 67
+  offset: 0, 0
+  index: -1
+ju_08
+  rotate: true
+  xy: 344, 52
+  size: 215, 305
+  orig: 215, 307
+  offset: 0, 2
+  index: -1
+ju_09
+  rotate: false
+  xy: 2, 9
+  size: 266, 258
+  orig: 266, 258
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: true
+  xy: 368, 42
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+quiver
+  rotate: true
+  xy: 886, 181
+  size: 86, 97
+  orig: 87, 98
+  offset: 0, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 651, 87
+  size: 180, 81
+  orig: 186, 89
+  offset: 3, 4
+  index: -1
+shoulder_left
+  rotate: true
+  xy: 672, 6
+  size: 44, 39
+  orig: 44, 40
+  offset: 0, 1
+  index: -1
+shoulder_right
+  rotate: true
+  xy: 439, 2
+  size: 48, 37
+  orig: 49, 38
+  offset: 1, 1
+  index: -1
+thigh_left
+  rotate: false
+  xy: 566, 4
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+thigh_right
+  rotate: false
+  xy: 614, 6
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1

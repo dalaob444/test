@@ -1,0 +1,146 @@
+
+salamaca.png
+size: 673,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 610, 12
+  size: 47, 48
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: false
+  xy: 446, 104
+  size: 62, 67
+  orig: 62, 74
+  offset: 0, 7
+  index: -1
+body
+  rotate: true
+  xy: 564, 93
+  size: 91, 107
+  orig: 91, 107
+  offset: 0, 0
+  index: -1
+cape
+  rotate: true
+  xy: 2, 83
+  size: 195, 152
+  orig: 195, 152
+  offset: 0, 0
+  index: -1
+deco_back
+  rotate: false
+  xy: 156, 85
+  size: 92, 67
+  orig: 92, 68
+  offset: 0, 1
+  index: -1
+deco_shoulder_right
+  rotate: true
+  xy: 352, 4
+  size: 82, 59
+  orig: 82, 60
+  offset: 0, 1
+  index: -1
+ear
+  rotate: true
+  xy: 510, 116
+  size: 55, 52
+  orig: 56, 52
+  offset: 1, 0
+  index: -1
+face
+  rotate: false
+  xy: 156, 154
+  size: 119, 124
+  orig: 121, 125
+  offset: 1, 1
+  index: -1
+hair
+  rotate: true
+  xy: 277, 169
+  size: 109, 133
+  orig: 109, 134
+  offset: 0, 1
+  index: -1
+hand_left
+  rotate: true
+  xy: 553, 2
+  size: 56, 55
+  orig: 56, 55
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: true
+  xy: 413, 4
+  size: 54, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+hip_lower
+  rotate: true
+  xy: 479, 14
+  size: 44, 72
+  orig: 44, 72
+  offset: 0, 0
+  index: -1
+hip_upper
+  rotate: false
+  xy: 573, 62
+  size: 60, 29
+  orig: 61, 29
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 535, 186
+  size: 113, 92
+  orig: 113, 92
+  offset: 0, 0
+  index: -1
+mask
+  rotate: true
+  xy: 412, 173
+  size: 105, 121
+  orig: 107, 122
+  offset: 1, 0
+  index: -1
+mus_09
+  rotate: true
+  xy: 413, 60
+  size: 26, 158
+  orig: 26, 160
+  offset: 0, 0
+  index: -1
+scroll
+  rotate: false
+  xy: 250, 88
+  size: 87, 64
+  orig: 87, 64
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 171, 2
+  size: 179, 81
+  orig: 186, 89
+  offset: 3, 4
+  index: -1
+shoulder_right
+  rotate: false
+  xy: 339, 88
+  size: 105, 79
+  orig: 106, 79
+  offset: 1, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 23
+  size: 58, 167
+  orig: 58, 168
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+[1,0,0,[["cc.AnimationClip",["_name","_duration","curveData"],1,11]],[[0,0,1,2,3]],[[0,"interFaceShow",0.3,[{},"props",11,[{"opacity":[{"frame":0,"value":100},{"frame":0.25,"value":255}]},"scale",12,[[[{"frame":0,"curve":"quadIn"},"value",8,[1,0.85,0.85,1]],[{"frame":0.15},"value",8,[1,1.1,1.1,1]],[{"frame":0.3},"value",8,[1,1,1,1]]],11,11,11]]]]],0,0,[],[],[]]

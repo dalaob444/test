@@ -1,0 +1,195 @@
+
+ryu.png
+size: 600,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 501, 172
+  size: 95, 97
+  orig: 95, 97
+  offset: 0, 0
+  index: -1
+calf_left
+  rotate: false
+  xy: 57, 3
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+calf_right
+  rotate: false
+  xy: 541, 11
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 252, 70
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+eye_left
+  rotate: false
+  xy: 357, 105
+  size: 13, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+eye_right
+  rotate: true
+  xy: 236, 69
+  size: 16, 14
+  orig: 17, 16
+  offset: 0, 1
+  index: -1
+face
+  rotate: true
+  xy: 2, 2
+  size: 50, 53
+  orig: 50, 54
+  offset: 0, 1
+  index: -1
+foot_left
+  rotate: true
+  xy: 453, 126
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+foot_right
+  rotate: false
+  xy: 487, 3
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 411, 166
+  size: 88, 101
+  orig: 88, 101
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 321, 120
+  size: 88, 147
+  orig: 88, 148
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: true
+  xy: 541, 62
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 483, 40
+  size: 56, 57
+  orig: 56, 58
+  offset: 0, 1
+  index: -1
+hipDeco_back
+  rotate: true
+  xy: 378, 8
+  size: 110, 54
+  orig: 111, 54
+  offset: 0, 0
+  index: -1
+hipDeco_left
+  rotate: false
+  xy: 174, 2
+  size: 52, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+hipDeco_right
+  rotate: false
+  xy: 99, 2
+  size: 73, 64
+  orig: 74, 65
+  offset: 1, 1
+  index: -1
+hip_mid
+  rotate: false
+  xy: 434, 99
+  size: 63, 20
+  orig: 63, 20
+  offset: 0, 0
+  index: -1
+hip_mid02
+  rotate: true
+  xy: 411, 121
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: true
+  xy: 321, 87
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+shadow_01
+  rotate: true
+  xy: 236, 87
+  size: 180, 83
+  orig: 186, 89
+  offset: 3, 3
+  index: -1
+sheath_left
+  rotate: false
+  xy: 434, 37
+  size: 47, 60
+  orig: 47, 62
+  offset: 0, 1
+  index: -1
+shoulder_left
+  rotate: false
+  xy: 501, 105
+  size: 71, 65
+  orig: 71, 65
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: false
+  xy: 282, 11
+  size: 94, 74
+  orig: 94, 74
+  offset: 0, 0
+  index: -1
+sword_05
+  rotate: true
+  xy: 60, 68
+  size: 199, 174
+  orig: 201, 175
+  offset: 2, 1
+  index: -1
+sword_left
+  rotate: false
+  xy: 2, 54
+  size: 56, 213
+  orig: 58, 214
+  offset: 1, 1
+  index: -1
+wrist_left
+  rotate: true
+  xy: 434, 3
+  size: 32, 51
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+wrist_right
+  rotate: false
+  xy: 228, 2
+  size: 52, 64
+  orig: 52, 65
+  offset: 0, 1
+  index: -1

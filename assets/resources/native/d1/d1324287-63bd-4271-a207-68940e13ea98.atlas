@@ -1,0 +1,307 @@
+
+nisya.png
+size: 704,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 545, 236
+  size: 39, 31
+  orig: 39, 32
+  offset: 0, 1
+  index: -1
+arm_right
+  rotate: true
+  xy: 438, 116
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1
+back_Deco1
+  rotate: false
+  xy: 257, 99
+  size: 61, 168
+  orig: 61, 169
+  offset: 0, 1
+  index: -1
+back_Deco2
+  rotate: false
+  xy: 190, 91
+  size: 65, 176
+  orig: 65, 176
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 349, 3
+  size: 65, 88
+  orig: 65, 88
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 2, 3
+  size: 25, 23
+  orig: 25, 30
+  offset: 0, 7
+  index: -1
+eye_left
+  rotate: false
+  xy: 508, 103
+  size: 12, 13
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+eye_right
+  rotate: true
+  xy: 347, 93
+  size: 21, 15
+  orig: 23, 17
+  offset: 1, 1
+  index: -1
+face
+  rotate: false
+  xy: 416, 24
+  size: 52, 69
+  orig: 54, 69
+  offset: 1, 0
+  index: -1
+hair
+  rotate: true
+  xy: 438, 146
+  size: 121, 105
+  orig: 121, 105
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 157, 2
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 587, 242
+  size: 25, 46
+  orig: 25, 47
+  offset: 0, 1
+  index: -1
+hair3
+  rotate: true
+  xy: 29, 4
+  size: 22, 56
+  orig: 23, 62
+  offset: 1, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 532, 102
+  size: 42, 53
+  orig: 43, 53
+  offset: 1, 0
+  index: -1
+hair5
+  rotate: true
+  xy: 416, 5
+  size: 17, 34
+  orig: 17, 35
+  offset: 0, 1
+  index: -1
+hand_left
+  rotate: true
+  xy: 320, 92
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: true
+  xy: 87, 3
+  size: 43, 68
+  orig: 43, 68
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 482, 2
+  size: 95, 51
+  orig: 95, 52
+  offset: 0, 1
+  index: -1
+hip_lower
+  rotate: false
+  xy: 635, 8
+  size: 52, 61
+  orig: 52, 62
+  offset: 0, 1
+  index: -1
+hip_mid
+  rotate: false
+  xy: 480, 118
+  size: 50, 26
+  orig: 51, 26
+  offset: 1, 0
+  index: -1
+leg
+  rotate: true
+  xy: 249, 9
+  size: 80, 98
+  orig: 80, 98
+  offset: 0, 0
+  index: -1
+light_effect_01
+  rotate: true
+  xy: 2, 28
+  size: 239, 73
+  orig: 239, 73
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: true
+  xy: 77, 36
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 183, 52
+  size: 41, 34
+  orig: 48, 35
+  offset: 7, 0
+  index: -1
+ns_14
+  rotate: false
+  xy: 535, 2
+  size: 98, 98
+  orig: 104, 104
+  offset: 3, 3
+  index: -1
+nss_01
+  rotate: false
+  xy: 587, 131
+  size: 109, 109
+  orig: 109, 109
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 106, 88
+  size: 179, 82
+  orig: 186, 89
+  offset: 3, 3
+  index: -1
+shoulder_left
+  rotate: false
+  xy: 204, 4
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: true
+  xy: 635, 71
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+skirt_b
+  rotate: true
+  xy: 320, 116
+  size: 151, 116
+  orig: 152, 116
+  offset: 1, 0
+  index: -1
+staff
+  rotate: false
+  xy: 77, 48
+  size: 27, 219
+  orig: 28, 219
+  offset: 1, 0
+  index: -1
+staffDeco1
+  rotate: false
+  xy: 147, 51
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+staffDeco10
+  rotate: true
+  xy: 452, 5
+  size: 17, 28
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+staffDeco2
+  rotate: true
+  xy: 587, 104
+  size: 25, 41
+  orig: 25, 43
+  offset: 0, 1
+  index: -1
+staffDeco3
+  rotate: true
+  xy: 635, 242
+  size: 25, 67
+  orig: 26, 67
+  offset: 0, 0
+  index: -1
+staffDeco4
+  rotate: false
+  xy: 226, 55
+  size: 21, 34
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+staffDeco5
+  rotate: true
+  xy: 411, 95
+  size: 19, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+staffDeco6
+  rotate: true
+  xy: 545, 203
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+staffDeco7
+  rotate: true
+  xy: 463, 99
+  size: 15, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+staffDeco8
+  rotate: false
+  xy: 445, 97
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+staffDeco9
+  rotate: false
+  xy: 492, 101
+  size: 14, 15
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+stone1
+  rotate: false
+  xy: 364, 95
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+wrist_left
+  rotate: false
+  xy: 106, 49
+  size: 39, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1

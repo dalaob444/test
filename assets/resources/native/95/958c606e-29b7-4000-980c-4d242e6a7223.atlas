@@ -1,0 +1,34 @@
+
+skeleton.png
+size: 110,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+光条
+  rotate: true
+  xy: 2, 85
+  size: 69, 102
+  orig: 71, 103
+  offset: 1, 0
+  index: -1
+大钻石
+  rotate: true
+  xy: 2, 18
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+小钻石
+  rotate: false
+  xy: 61, 40
+  size: 47, 43
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+播放
+  rotate: false
+  xy: 61, 2
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1

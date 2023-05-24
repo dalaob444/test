@@ -1,0 +1,153 @@
+
+zed.png
+size: 464,539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 379, 211
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 112, 4
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+axe
+  rotate: true
+  xy: 2, 346
+  size: 191, 311
+  orig: 191, 311
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 137, 203
+  size: 141, 155
+  orig: 141, 155
+  offset: 0, 0
+  index: -1
+body_Acc
+  rotate: false
+  xy: 315, 378
+  size: 143, 159
+  orig: 146, 164
+  offset: 1, 3
+  index: -1
+body_neck
+  rotate: false
+  xy: 315, 276
+  size: 143, 100
+  orig: 143, 101
+  offset: 0, 0
+  index: -1
+calf_left
+  rotate: false
+  xy: 389, 40
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+calf_right
+  rotate: false
+  xy: 389, 94
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+elbow_right
+  rotate: true
+  xy: 2, 2
+  size: 90, 108
+  orig: 92, 108
+  offset: 1, 0
+  index: -1
+face
+  rotate: false
+  xy: 188, 98
+  size: 77, 103
+  orig: 77, 103
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: false
+  xy: 267, 104
+  size: 95, 97
+  orig: 96, 98
+  offset: 1, 1
+  index: -1
+hand_right
+  rotate: true
+  xy: 75, 278
+  size: 66, 60
+  orig: 67, 60
+  offset: 1, 0
+  index: -1
+hip
+  rotate: true
+  xy: 2, 278
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 294, 205
+  size: 69, 83
+  orig: 70, 83
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: true
+  xy: 389, 151
+  size: 58, 69
+  orig: 59, 70
+  offset: 1, 0
+  index: -1
+shadow_01
+  rotate: true
+  xy: 2, 94
+  size: 180, 82
+  orig: 186, 89
+  offset: 3, 3
+  index: -1
+shoulder_left
+  rotate: false
+  xy: 330, 7
+  size: 57, 95
+  orig: 58, 95
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: true
+  xy: 86, 95
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 206, 12
+  size: 122, 84
+  orig: 122, 84
+  offset: 0, 0
+  index: -1
+thigh_left
+  rotate: false
+  xy: 86, 239
+  size: 47, 37
+  orig: 47, 38
+  offset: 0, 1
+  index: -1
+thigh_right
+  rotate: false
+  xy: 86, 195
+  size: 45, 42
+  orig: 46, 43
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,111 @@
+
+quaker.png
+size: 450,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 327, 35
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 87, 115
+  size: 146, 158
+  orig: 146, 158
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 327, 7
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+foot_left
+  rotate: false
+  xy: 402, 72
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+foot_right
+  rotate: true
+  xy: 399, 225
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: true
+  xy: 210, 10
+  size: 103, 115
+  orig: 103, 115
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 93, 8
+  size: 115, 105
+  orig: 115, 105
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+hip_mid
+  rotate: true
+  xy: 351, 120
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 93
+  size: 180, 83
+  orig: 186, 89
+  offset: 3, 3
+  index: -1
+shoulder_right
+  rotate: false
+  xy: 235, 176
+  size: 94, 97
+  orig: 94, 97
+  offset: 0, 0
+  index: -1
+thigh_left
+  rotate: false
+  xy: 402, 24
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+thigh_right
+  rotate: false
+  xy: 235, 115
+  size: 50, 59
+  orig: 51, 59
+  offset: 1, 0
+  index: -1
+wrist_left
+  rotate: true
+  xy: 287, 117
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+wrist_right
+  rotate: false
+  xy: 331, 188
+  size: 66, 85
+  orig: 66, 85
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+crocodilia.png
+size: 870,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 75, 9
+  size: 83, 73
+  orig: 83, 74
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 233, 112
+  size: 158, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 466, 130
+  size: 129, 140
+  orig: 130, 140
+  offset: 1, 0
+  index: -1
+cos_04
+  rotate: false
+  xy: 393, 115
+  size: 71, 155
+  orig: 80, 159
+  offset: 0, 0
+  index: -1
+deco_right
+  rotate: true
+  xy: 150, 2
+  size: 97, 64
+  orig: 98, 64
+  offset: 1, 0
+  index: -1
+eye
+  rotate: false
+  xy: 698, 16
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 678, 133
+  size: 137, 112
+  orig: 137, 113
+  offset: 0, 1
+  index: -1
+foot_left
+  rotate: true
+  xy: 792, 126
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: false
+  xy: 698, 38
+  size: 92, 93
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+head_deco
+  rotate: true
+  xy: 348, 4
+  size: 106, 103
+  orig: 106, 103
+  offset: 0, 0
+  index: -1
+hip_lower
+  rotate: true
+  xy: 2, 3
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+hip_mid
+  rotate: true
+  xy: 597, 130
+  size: 140, 79
+  orig: 141, 80
+  offset: 1, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 453, 10
+  size: 138, 103
+  orig: 138, 103
+  offset: 0, 0
+  index: -1
+shoulder
+  rotate: true
+  xy: 593, 10
+  size: 118, 103
+  orig: 119, 103
+  offset: 1, 0
+  index: -1
+shoulder_left
+  rotate: false
+  xy: 216, 5
+  size: 130, 94
+  orig: 130, 94
+  offset: 0, 0
+  index: -1
+sword_left
+  rotate: true
+  xy: 125, 101
+  size: 169, 106
+  orig: 169, 106
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 2, 94
+  size: 176, 121
+  orig: 176, 121
+  offset: 0, 0
+  index: -1
+thigh_left
+  rotate: false
+  xy: 792, 201
+  size: 76, 69
+  orig: 76, 69
+  offset: 0, 0
+  index: -1

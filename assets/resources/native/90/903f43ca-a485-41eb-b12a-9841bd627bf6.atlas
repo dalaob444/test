@@ -1,0 +1,153 @@
+
+kolakas.png
+size: 207,994
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 93, 93
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 2, 225
+  size: 89, 116
+  orig: 169, 131
+  offset: 45, 14
+  index: -1
+body
+  rotate: true
+  xy: 2, 416
+  size: 144, 147
+  orig: 144, 147
+  offset: 0, 0
+  index: -1
+ear_right
+  rotate: true
+  xy: 171, 561
+  size: 37, 31
+  orig: 48, 40
+  offset: 5, 5
+  index: -1
+eye
+  rotate: false
+  xy: 184, 745
+  size: 19, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2, 316
+  size: 98, 130
+  orig: 98, 131
+  offset: 0, 0
+  index: -1
+foot_left
+  rotate: true
+  xy: 151, 446
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+foot_right
+  rotate: true
+  xy: 151, 503
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 562
+  size: 167, 124
+  orig: 167, 125
+  offset: 0, 1
+  index: -1
+hand_left
+  rotate: true
+  xy: 2, 80
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: true
+  xy: 120, 161
+  size: 73, 85
+  orig: 91, 107
+  offset: 9, 11
+  index: -1
+hip_left
+  rotate: true
+  xy: 151, 396
+  size: 48, 50
+  orig: 49, 50
+  offset: 1, 0
+  index: -1
+hip_mid
+  rotate: true
+  xy: 133, 35
+  size: 56, 65
+  orig: 56, 65
+  offset: 0, 0
+  index: -1
+hip_right
+  rotate: true
+  xy: 2, 2
+  size: 76, 57
+  orig: 77, 57
+  offset: 0, 0
+  index: -1
+hip_upper
+  rotate: true
+  xy: 171, 600
+  size: 86, 33
+  orig: 87, 41
+  offset: 1, 5
+  index: -1
+mouse
+  rotate: false
+  xy: 2, 158
+  size: 89, 65
+  orig: 89, 65
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 688
+  size: 180, 82
+  orig: 186, 89
+  offset: 3, 3
+  index: -1
+tail
+  rotate: true
+  xy: 134, 236
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+thigh_left
+  rotate: true
+  xy: 134, 333
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+thigh_right
+  rotate: false
+  xy: 61, 6
+  size: 70, 72
+  orig: 70, 73
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 772
+  size: 220, 193
+  orig: 253, 224
+  offset: 32, 30
+  index: -1

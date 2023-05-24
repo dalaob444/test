@@ -1,0 +1,55 @@
+
+shuijing.png
+size: 308,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuijing
+  rotate: false
+  xy: 140, 38
+  size: 67, 100
+  orig: 67, 100
+  offset: 0, 0
+  index: -1
+shuijingtuteng
+  rotate: false
+  xy: 2, 2
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+shuijinsunpian01
+  rotate: false
+  xy: 209, 3
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+shuijinsunpian02
+  rotate: false
+  xy: 258, 7
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+shuijinsunpian03
+  rotate: false
+  xy: 261, 81
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+shuijinsunpian04
+  rotate: false
+  xy: 209, 73
+  size: 50, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+shujingtuteng
+  rotate: true
+  xy: 140, 5
+  size: 31, 62
+  orig: 31, 62
+  offset: 0, 0
+  index: -1

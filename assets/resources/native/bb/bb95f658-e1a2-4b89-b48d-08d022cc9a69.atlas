@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 702,323
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 87, 19
+  size: 135, 123
+  orig: 135, 123
+  offset: 0, 0
+  index: -1
+BGliang
+  rotate: false
+  xy: 555, 38
+  size: 135, 123
+  orig: 135, 123
+  offset: 0, 0
+  index: -1
+Fire_13_00000
+  rotate: false
+  xy: 212, 3
+  size: 84, 153
+  orig: 88, 169
+  offset: 3, 2
+  index: -1
+Fire_13_00001
+  rotate: false
+  xy: 385, 3
+  size: 83, 156
+  orig: 88, 169
+  offset: 4, 2
+  index: -1
+Fire_13_00002
+  rotate: false
+  xy: 423, 162
+  size: 82, 159
+  orig: 88, 169
+  offset: 5, 2
+  index: -1
+Fire_13_00003
+  rotate: false
+  xy: 167, 158
+  size: 83, 163
+  orig: 88, 169
+  offset: 3, 2
+  index: -1
+Fire_13_00004
+  rotate: false
+  xy: 85, 156
+  size: 80, 165
+  orig: 88, 169
+  offset: 4, 2
+  index: -1
+Fire_13_00005
+  rotate: false
+  xy: 2, 155
+  size: 81, 166
+  orig: 88, 169
+  offset: 3, 2
+  index: -1
+Fire_13_00006
+  rotate: false
+  xy: 470, 2
+  size: 83, 158
+  orig: 88, 169
+  offset: 3, 2
+  index: -1
+Fire_13_00007
+  rotate: false
+  xy: 298, 2
+  size: 85, 156
+  orig: 88, 169
+  offset: 1, 1
+  index: -1
+Fire_13_00008
+  rotate: false
+  xy: 252, 160
+  size: 84, 161
+  orig: 88, 169
+  offset: 2, 1
+  index: -1
+Fire_13_00009
+  rotate: false
+  xy: 338, 161
+  size: 83, 160
+  orig: 88, 169
+  offset: 2, 1
+  index: -1
+Fire_13_00010
+  rotate: false
+  xy: 507, 166
+  size: 81, 155
+  orig: 88, 169
+  offset: 4, 1
+  index: -1
+Fire_13_00011
+  rotate: false
+  xy: 2, 5
+  size: 83, 148
+  orig: 88, 169
+  offset: 3, 1
+  index: -1
+haojiao
+  rotate: false
+  xy: 590, 243
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1
+haojiaoliang
+  rotate: false
+  xy: 590, 163
+  size: 110, 78
+  orig: 110, 78
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+asuka.png
+size: 471,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 428, 326
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 425, 256
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+as_05
+  rotate: false
+  xy: 2, 249
+  size: 271, 272
+  orig: 286, 286
+  offset: 1, 9
+  index: -1
+body
+  rotate: true
+  xy: 356, 295
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 441, 167
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+eye_left
+  rotate: true
+  xy: 2, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+eye_right
+  rotate: false
+  xy: 385, 7
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 322, 11
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+foot_left
+  rotate: false
+  xy: 398, 195
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+foot_right
+  rotate: true
+  xy: 325, 255
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 329, 175
+  size: 78, 67
+  orig: 79, 68
+  offset: 0, 1
+  index: -1
+hair_back
+  rotate: true
+  xy: 385, 60
+  size: 57, 51
+  orig: 57, 52
+  offset: 0, 1
+  index: -1
+hair_f1
+  rotate: true
+  xy: 437, 3
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+hair_f2
+  rotate: false
+  xy: 428, 298
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+hair_f3
+  rotate: true
+  xy: 406, 8
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+hair_f4
+  rotate: false
+  xy: 447, 199
+  size: 19, 55
+  orig: 19, 55
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: true
+  xy: 385, 21
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: true
+  xy: 329, 78
+  size: 39, 51
+  orig: 39, 52
+  offset: 0, 1
+  index: -1
+hip_lower
+  rotate: true
+  xy: 275, 250
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+hip_mid
+  rotate: true
+  xy: 438, 62
+  size: 58, 25
+  orig: 58, 25
+  offset: 0, 0
+  index: -1
+mus_06
+  rotate: false
+  xy: 385, 255
+  size: 38, 38
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+scarf1
+  rotate: true
+  xy: 275, 360
+  size: 161, 76
+  orig: 161, 76
+  offset: 0, 0
+  index: -1
+scarf2
+  rotate: true
+  xy: 407, 369
+  size: 152, 46
+  orig: 152, 46
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 246, 69
+  size: 178, 81
+  orig: 186, 89
+  offset: 4, 4
+  index: -1
+shoulder_left
+  rotate: true
+  xy: 275, 287
+  size: 71, 79
+  orig: 71, 79
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: true
+  xy: 246, 9
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+thigh_left
+  rotate: true
+  xy: 386, 122
+  size: 51, 53
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+thigh_right
+  rotate: true
+  xy: 329, 119
+  size: 54, 55
+  orig: 55, 56
+  offset: 1, 1
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 13
+  size: 242, 234
+  orig: 242, 234
+  offset: 0, 0
+  index: -1
+weapon_back
+  rotate: true
+  xy: 353, 366
+  size: 155, 52
+  orig: 155, 52
+  offset: 0, 0
+  index: -1

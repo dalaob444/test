@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 890,147
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+光圈02
+  rotate: true
+  xy: 787, 2
+  size: 143, 101
+  orig: 143, 101
+  offset: 0, 0
+  index: -1
+光圈03
+  rotate: true
+  xy: 301, 4
+  size: 141, 130
+  orig: 141, 130
+  offset: 0, 0
+  index: -1
+光圈04-1
+  rotate: true
+  xy: 161, 2
+  size: 143, 138
+  orig: 143, 143
+  offset: 0, 0
+  index: -1
+光圈04-2
+  rotate: true
+  xy: 554, 2
+  size: 143, 119
+  orig: 143, 122
+  offset: 0, 0
+  index: -1
+光圈04-3
+  rotate: true
+  xy: 675, 2
+  size: 143, 110
+  orig: 143, 110
+  offset: 0, 0
+  index: -1
+光圈04-4
+  rotate: true
+  xy: 2, 2
+  size: 143, 157
+  orig: 143, 159
+  offset: 0, 0
+  index: -1
+光圈04-5
+  rotate: true
+  xy: 433, 2
+  size: 143, 119
+  orig: 143, 122
+  offset: 0, 0
+  index: -1

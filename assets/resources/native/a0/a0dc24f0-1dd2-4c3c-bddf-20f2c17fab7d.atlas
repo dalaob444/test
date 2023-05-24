@@ -1,0 +1,132 @@
+
+kaiser.png
+size: 427,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 338, 80
+  size: 69, 119
+  orig: 69, 119
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: false
+  xy: 334, 254
+  size: 91, 76
+  orig: 91, 77
+  offset: 0, 0
+  index: -1
+back_deco
+  rotate: false
+  xy: 211, 332
+  size: 163, 104
+  orig: 163, 104
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 341
+  size: 178, 207
+  orig: 178, 207
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 393, 503
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 243, 248
+  size: 82, 87
+  orig: 82, 87
+  offset: 0, 0
+  index: -1
+foot_right
+  rotate: true
+  xy: 2, 2
+  size: 95, 107
+  orig: 95, 107
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: false
+  xy: 2, 99
+  size: 107, 132
+  orig: 107, 132
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: true
+  xy: 111, 104
+  size: 127, 120
+  orig: 127, 120
+  offset: 0, 0
+  index: -1
+hip_mid
+  rotate: false
+  xy: 2, 233
+  size: 157, 106
+  orig: 157, 106
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 334, 201
+  size: 85, 51
+  orig: 85, 51
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 161, 236
+  size: 80, 94
+  orig: 80, 94
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 211, 438
+  size: 180, 81
+  orig: 186, 89
+  offset: 2, 4
+  index: -1
+shoulder_left
+  rotate: true
+  xy: 233, 105
+  size: 72, 103
+  orig: 72, 103
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: false
+  xy: 111, 2
+  size: 103, 100
+  orig: 103, 100
+  offset: 0, 0
+  index: -1
+thigh_right
+  rotate: true
+  xy: 334, 10
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+wrist_left
+  rotate: true
+  xy: 243, 179
+  size: 67, 82
+  orig: 67, 82
+  offset: 0, 0
+  index: -1
+wrist_right
+  rotate: true
+  xy: 216, 10
+  size: 92, 116
+  orig: 92, 116
+  offset: 0, 0
+  index: -1

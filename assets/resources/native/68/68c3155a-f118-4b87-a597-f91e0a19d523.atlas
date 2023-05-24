@@ -1,0 +1,174 @@
+
+murka.png
+size: 1061,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_right
+  rotate: true
+  xy: 1004, 5
+  size: 72, 55
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+axe
+  rotate: true
+  xy: 2, 14
+  size: 141, 193
+  orig: 141, 193
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 330, 30
+  size: 125, 122
+  orig: 125, 122
+  offset: 0, 0
+  index: -1
+body_deco
+  rotate: false
+  xy: 784, 66
+  size: 82, 89
+  orig: 82, 89
+  offset: 0, 0
+  index: -1
+body_deco2
+  rotate: true
+  xy: 454, 55
+  size: 100, 68
+  orig: 100, 68
+  offset: 0, 0
+  index: -1
+calf_left
+  rotate: true
+  xy: 454, 3
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+calf_right
+  rotate: false
+  xy: 789, 5
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+eye_left
+  rotate: false
+  xy: 2, 3
+  size: 9, 9
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+eye_right
+  rotate: false
+  xy: 197, 6
+  size: 17, 12
+  orig: 17, 14
+  offset: 0, 1
+  index: -1
+face
+  rotate: false
+  xy: 868, 69
+  size: 77, 86
+  orig: 77, 87
+  offset: 0, 1
+  index: -1
+foot_left
+  rotate: true
+  xy: 1019, 101
+  size: 54, 37
+  orig: 55, 38
+  offset: 0, 1
+  index: -1
+foot_right
+  rotate: true
+  xy: 504, 4
+  size: 49, 38
+  orig: 50, 38
+  offset: 1, 0
+  index: -1
+hair
+  rotate: false
+  xy: 249, 25
+  size: 79, 130
+  orig: 80, 130
+  offset: 1, 0
+  index: -1
+hand_left
+  rotate: true
+  xy: 544, 2
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: true
+  xy: 847, 7
+  size: 57, 80
+  orig: 58, 81
+  offset: 0, 0
+  index: -1
+hip
+  rotate: true
+  xy: 197, 20
+  size: 135, 50
+  orig: 135, 50
+  offset: 0, 0
+  index: -1
+hip_deco
+  rotate: false
+  xy: 621, 65
+  size: 161, 90
+  orig: 162, 90
+  offset: 1, 0
+  index: -1
+hip_left
+  rotate: false
+  xy: 608, 2
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+hip_mid
+  rotate: false
+  xy: 719, 4
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+mouse
+  rotate: true
+  xy: 671, 2
+  size: 61, 46
+  orig: 64, 47
+  offset: 0, 1
+  index: -1
+shadow
+  rotate: false
+  xy: 330, 6
+  size: 72, 22
+  orig: 78, 29
+  offset: 3, 4
+  index: -1
+shoulder_right
+  rotate: true
+  xy: 524, 57
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+wrist_left
+  rotate: true
+  xy: 929, 4
+  size: 63, 73
+  orig: 63, 73
+  offset: 0, 0
+  index: -1
+wrist_right
+  rotate: false
+  xy: 947, 79
+  size: 70, 76
+  orig: 71, 77
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,118 @@
+
+carma.png
+size: 315,519
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 369
+  size: 155, 148
+  orig: 155, 148
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 260, 31
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 80, 97
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 159, 378
+  size: 139, 152
+  orig: 140, 152
+  offset: 1, 0
+  index: -1
+foot_lb
+  rotate: true
+  xy: 155, 176
+  size: 65, 64
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+foot_lf
+  rotate: true
+  xy: 85, 174
+  size: 95, 68
+  orig: 96, 68
+  offset: 1, 0
+  index: -1
+foot_rb
+  rotate: true
+  xy: 221, 176
+  size: 65, 64
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+foot_rf
+  rotate: true
+  xy: 85, 271
+  size: 96, 68
+  orig: 96, 68
+  offset: 0, 0
+  index: -1
+mane
+  rotate: false
+  xy: 159, 243
+  size: 139, 133
+  orig: 140, 133
+  offset: 1, 0
+  index: -1
+mouse
+  rotate: false
+  xy: 131, 10
+  size: 127, 104
+  orig: 127, 104
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 2, 188
+  size: 179, 81
+  orig: 186, 89
+  offset: 3, 4
+  index: -1
+tail
+  rotate: false
+  xy: 80, 116
+  size: 90, 56
+  orig: 91, 57
+  offset: 1, 1
+  index: -1
+thigh_lb
+  rotate: false
+  xy: 260, 98
+  size: 53, 76
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+thigh_lf
+  rotate: false
+  xy: 2, 96
+  size: 76, 90
+  orig: 76, 90
+  offset: 0, 0
+  index: -1
+thigh_rb
+  rotate: true
+  xy: 172, 121
+  size: 53, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+thigh_rf
+  rotate: true
+  xy: 2, 2
+  size: 92, 127
+  orig: 92, 127
+  offset: 0, 0
+  index: -1
